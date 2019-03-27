@@ -1,0 +1,5 @@
+*
+!.gitignore
+!fig4_data.csv
+!fasttext_results.csv
+!vaccine_sentiment_data.csv

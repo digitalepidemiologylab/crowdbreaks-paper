@@ -1,0 +1,22 @@
+.DS_Store
+main.txt
+
+# tex files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.xdv
+screenshots
+response_reviewers
+
+# vim
+**/*.swp
+**/*.swo
+
+# Jupyter
+**/.ipynb_checkpoints
