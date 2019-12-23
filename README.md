@@ -14,5 +14,5 @@ python download_tweets.py -i ./data/vaccine_sentiment_data.csv -o ./data/tweets.
 
 ## Download vaccine sentiment model
 ```
-wget https://s3.eu-central-1.amazonaws.com/crowdbreaks-dev/binaries/fasttext_v1.ftz -o ./data/fasttext_v1.ftz
+wget https://crowdbreaks-public.s3.eu-central-1.amazonaws.com/models/fasttext_v1.ftz -o ./data/fasttext_v1.ftz
 ```
